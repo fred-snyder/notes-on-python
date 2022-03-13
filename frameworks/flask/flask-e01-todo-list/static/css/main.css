@@ -1,0 +1,18 @@
+.app {
+    width: 800px;
+    margin: 0 auto
+}
+
+h1 {
+    font-size: 20px;
+}
+
+table {
+    text-align: left;
+}
+
+th, td {
+    width: 300px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+}

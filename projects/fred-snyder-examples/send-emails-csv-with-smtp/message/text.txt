@@ -1,0 +1,10 @@
+Dear {name},
+
+Are you a Windows or Mac user?
+
+Kind regards,
+
+Fred Snyder (Python Developer)
+https://www.fredsnyder.net
+
+This message is for: {receiver_email_address}

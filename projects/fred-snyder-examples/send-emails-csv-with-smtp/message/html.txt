@@ -1,0 +1,18 @@
+<html>
+  <body>
+    <p>
+    	Dear {name},<br/>
+		<br/>
+		Are you a Windows or Mac user?
+    </p>
+	<p>
+		Kind regards,<br/>
+		<br/>
+		Fred Snyder (Python Developer)<br/>
+		https://www.frednyder.net/<br/>
+	</p>
+	<p>
+		This message is for: {receiver_email_address}
+	</p>
+  </body>
+</html>
